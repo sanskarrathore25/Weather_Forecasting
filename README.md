@@ -1,4 +1,4 @@
-# Python-Projects
+# Weather Forecasting
 This project aims to develop a weather prediction application using Python and
 Tkinter. The application will allow users to enter their location and view
 current weather conditions, as well as other parameter in weather forecast. The
